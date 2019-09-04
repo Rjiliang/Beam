@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Class-Path: flink-optimizer_2.11-1.5.2.jar scopt_2.11-3.5.0.jar minlog
+ -1.2.jar flink-runtime_2.11-1.5.2.jar spring-expression-4.3.5.RELEASE
+ .jar kryo-2.24.0.jar beam-runners-core-java-2.4.0.jar slf4j-api-1.7.2
+ 5.jar grpc-stub-1.2.0.jar commons-lang3-3.3.2.jar objenesis-2.1.jar g
+ uava-19.0.jar flink-clients_2.11-1.5.2.jar commons-logging-1.2.jar co
+ mmons-math3-3.5.jar scala-parser-combinators_2.11-1.0.4.jar flink-met
+ rics-core-1.5.2.jar beam-runners-core-construction-java-2.4.0.jar fli
+ nk-streaming-java_2.11-1.5.2.jar akka-stream_2.11-2.4.20.jar grpc-con
+ text-1.2.0.jar flink-shaded-guava-18.0-2.0.jar paranamer-2.7.jar gson
+ -2.7.jar beam-model-fn-execution-2.4.0.jar commons-io-2.4.jar flink-j
+ ava-1.5.2.jar jackson-annotations-2.8.9.jar lz4-1.3.0.jar grpc-protob
+ uf-lite-1.2.0.jar scala-library-2.11.12.jar xz-1.5.jar flink-hadoop-f
+ s-1.5.2.jar force-shading-1.5.2.jar grizzled-slf4j_2.11-1.0.2.jar fin
+ dbugs-annotations-1.3.9-1.jar jackson-databind-2.8.9.jar flink-core-1
+ .5.2.jar avro-1.8.2.jar flink-annotations-1.5.2.jar jsr305-3.0.1.jar 
+ chill-java-0.7.4.jar akka-actor_2.11-2.4.20.jar protobuf-java-3.2.0.j
+ ar beam-runners-flink_2.11-2.4.0.jar snappy-java-1.1.2.6.jar instrume
+ ntation-api-0.3.0.jar grpc-core-1.2.0.jar flink-shaded-jackson-2.7.9-
+ 3.0.jar flink-shaded-asm-5.0.4-2.0.jar reactive-streams-1.0.0.jar spr
+ ing-core-4.3.5.RELEASE.jar javassist-3.18.2-GA.jar beam-sdks-java-io-
+ kafka-2.4.0.jar config-1.3.0.jar beam-sdks-java-core-2.4.0.jar flink-
+ shaded-netty-4.0.27.Final-2.0.jar commons-compress-1.14.jar beam-mode
+ l-job-management-2.4.0.jar commons-cli-1.3.1.jar ssl-config-core_2.11
+ -0.2.1.jar jackson-core-asl-1.9.13.jar akka-protobuf_2.11-2.4.20.jar 
+ protobuf-java-util-3.2.0.jar akka-slf4j_2.11-2.4.20.jar jackson-mappe
+ r-asl-1.9.13.jar kafka-clients-0.10.1.1.jar chill_2.11-0.7.4.jar jack
+ son-core-2.8.9.jar flink-queryable-state-client-java_2.11-1.5.2.jar g
+ rpc-protobuf-1.2.0.jar beam-model-pipeline-2.4.0.jar scala-java8-comp
+ at_2.11-0.7.0.jar joda-time-2.4.jar commons-collections-3.2.2.jar err
+ or_prone_annotations-2.0.11.jar
+Main-Class: com.cherry.kafka.FlinkRunnerDemo
+
